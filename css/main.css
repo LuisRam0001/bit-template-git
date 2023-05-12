@@ -4,10 +4,6 @@ h1, h2, h3, h4, h5, h6 {
     color: #444;
     text-transform: uppercase;
 }
-h3{
-    font-size: 1rem;
-    line-height: 1rem;
-}
 
 .clear {
     clear: both;
@@ -32,5 +28,10 @@ h3{
     padding-top: 10px;
     text-align: center;
     margin-left: -5px;
+}
+.footer_small,.container-footer {
+    margin-top: 4rem;
+    padding: 2rem;
+    border-top-style: outset;
 }
 
