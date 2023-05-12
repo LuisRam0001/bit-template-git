@@ -35,3 +35,62 @@ h1, h2, h3, h4, h5, h6 {
     border-top-style: outset;
 }
 
+.container-welcome{
+    text-align: center;
+    font-size: 32px;
+
+}
+.title-under-image{
+            font-size: 1.8rem;
+        text-align: center;
+        font-family: 'LeagueGothicRegular', Helvetica, Arial;
+        color: #888;
+        font-weight: normal;
+        text-transform: uppercase;
+        font-weight: normal;
+        justify-content: center;
+
+      }
+      
+.container-small{
+    display: flex;
+    height: 20%;
+    width: 20%;
+}
+.img-style {
+    margin: 1.5rem;
+  }
+  h2{
+    color: #444;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+       
+  }
+.logo {
+    float: left;
+    padding: 30px 0;
+}
+
+
+.nav {
+    float: right;
+    height: 30px;
+    margin: 40px 0;
+    font-family: 'LeagueGothicRegular', Helvetica, Arial;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+.inner {
+    border-bottom: 11px dotted #b61717;
+    
+
+}
+ul, li, a {
+    
+    padding: 0px 8px;
+    line-height: 40px;
+    text-decoration: none;
+    display: block;
+}
+ 
