@@ -30,3 +30,30 @@
     font-family: Arial, Helvetica, sans-serif;
        
   }
+.logo {
+    float: left;
+    padding: 30px 0;
+}
+
+
+.nav {
+    float: right;
+    height: 30px;
+    margin: 40px 0;
+    font-family: 'LeagueGothicRegular', Helvetica, Arial;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+.inner {
+    border-bottom: 11px dotted #b61717;
+    
+
+}
+ul, li, a {
+    
+    padding: 0px 8px;
+    line-height: 40px;
+    text-decoration: none;
+    display: block;
+}
+ 
