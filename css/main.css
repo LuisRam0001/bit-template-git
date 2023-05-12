@@ -1,0 +1,16 @@
+.container-welcome{
+    text-align: center;
+    font-size: 32px;
+
+}
+.title-under-image{
+            font-size: 1.8rem;
+        text-align: center;
+        font-family: 'LeagueGothicRegular', Helvetica, Arial;
+        color: #888;
+        font-weight: normal;
+        text-transform: uppercase;
+        font-weight: normal;
+        justify-content: center;
+      }
+      
