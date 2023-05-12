@@ -1,0 +1,36 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'LeagueGothicRegular', Helvetica, Arial;
+    margin-bottom: 1rem;
+    color: #444;
+    text-transform: uppercase;
+}
+h3{
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+.clear {
+    clear: both;
+    display: block;
+    height: 0;
+    width: 100%;
+}
+.icon-image {
+    float: left;
+    width: 1rem;
+    margin-right: 1.5rem;
+}
+.icon-text {
+    overflow: hidden;
+}
+.copyright {
+    font-size: 1rem;
+    padding-top: 8px;
+    text-align: center;
+}
+.social {
+    padding-top: 10px;
+    text-align: center;
+    margin-left: -5px;
+}
+
